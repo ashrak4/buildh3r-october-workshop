@@ -1,0 +1,17 @@
+{
+  "name": "aleo_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Ashmita Manandhar",
+  "license": "MIT",
+  "dependencies": {
+    "@provablehq/sdk": "^0.7.0",
+    "core-js": "^3.38.1"
+  }
+}
